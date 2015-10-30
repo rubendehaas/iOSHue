@@ -1,0 +1,6 @@
+framework module Pods_iOSHue {
+  umbrella header "Pods-iOSHue-umbrella.h"
+
+  export *
+  module * { export * }
+}
